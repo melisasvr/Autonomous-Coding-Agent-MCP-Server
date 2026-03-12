@@ -1,6 +1,6 @@
-# 🤖 Autonomous Coding Agent — MCP Server
+# 🤖 Autonomous Coding Agent-MCP Server
 - A fully autonomous coding agent that runs from your terminal in VS Code.  
-- It uses **Groq's free API** (LLaMA 3 model) to plan, write, run, and fix code on your behalf — no paid subscription required.
+- It uses **Groq's free API** (LLaMA 3 model) to plan, write, run, and fix code on your behalf no paid subscription required.
 - You give it a task in plain English, and it handles the rest.
 
 ---
